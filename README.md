@@ -4,7 +4,7 @@ CRAFTI is a modern and responsive web application dedicated to showcasing top-qu
 
 ## Features
 
-- **Responsive Design**: The website is fully responsive, ensuring a seamless experience on all devices.
+- **Responsive Design**: The website is fully responsive, ensuring a seamless experience on all devices
 - **Modern UI**: A clean and attractive user interface built with HTML, CSS, and FontAwesome icons.
 - **Collection Gallery**: A gallery section displaying various handmade products with detailed descriptions.
 - **Blog Section**: Latest news and tips related to crafts and handmade products.
